@@ -7,5 +7,6 @@ public class Main {
 		System.out.println("用Eclipse创建的Java项目");
 		System.out.println("用Eclipse创建的Java项目");
 		System.out.println("用Eclipse创建的Java项目");
+		System.out.println("用Eclipse创建的Java项目");
 	}
 }
