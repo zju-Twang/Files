@@ -16,4 +16,20 @@ public class Employee {
 		this.address = address;
 		this.salary = salary;
 	}
+
+	public String getName() {
+		return this.name;
+	}
+
+	public int getAge() {
+		return this.age;
+	}
+
+	public String getAddress() {
+		return this.address;
+	}
+
+	public double getSalary() {
+		return this.salary;
+	}
 }
